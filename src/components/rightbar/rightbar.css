@@ -1,0 +1,7 @@
+
+.rightbar{
+    flex:4;
+    height: calc(100vh - 50px);
+    background-color: rgb(230, 89, 29);
+
+}
