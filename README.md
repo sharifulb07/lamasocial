@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+### Hi there 👋, my name is Shariful Islam
+#### I am Nextjs app Developer
+![I am Nextjs app Developer](https://cdn.pixabay.com/photo/2024/01/19/17/10/17-10-11-669_1280.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello! I'm  shariful islam, a passionate Next.js developer with a keen interest in crafting seamless and performant web experiences. My journey in the world of web development began with a fascination for turning ideas into interactive and user-friendly applications.
 
-## Available Scripts
+Skills: NEXT JS / REACT / JS / HTML / CSS / TAILWIND
 
-In the project directory, you can run:
+- 🔭 I’m currently working on Full Stack App Development on Nextjs 
+- 🌱 I’m currently learning Productivity AI Tool for fast Web development 
+- 👯 I’m looking to collaborate on Open Source Project 
+- 💬 Ask me about Nextjs and React 
+- 📫 How to reach me: https://www.linkedin.com/in/shariful-islam-663a02152/ 
+- ⚡ Fun fact: Mr. Cooler 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sharifulb07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shariful-islam-663a02152//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/shariful0194414)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCm5o0Wag8Ekw2zMo7W9Tjuw)  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-### `npm test`
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/sharifulb07)](https://github.com/ryo-ma/github-profile-trophy)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/sharifulb07)](https://github.com/anuraghazra/github-readme-stats)
 
-### `npm run build`
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/sharifulb07&show_icons=true&count_private=true)  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/sharifulb07/contributions?format=svg&private=true)  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/sharifulb07)  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/sharifulb07)  
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
